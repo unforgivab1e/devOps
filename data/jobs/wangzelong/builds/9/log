@@ -1,0 +1,119 @@
+Started by user [8mha:////4FjCRpLtJZKYxfKgpZgz+VbF0gMFzzmm0a8zSmHY3qKFAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9cqAZAG34iXK/AAAA[0mwang
+[8mha:////4C6nwGUGAVLwHaUnwND+ANfMhrGMZ84O74ltNO0//Q+qAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4A+HjUFDVa/sDUbT5/jW0hZJ/W+ky08Z/e2rGX88I8qrAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4JEAUkKHTDwINILFM1ykefs5FHGzXXFMH6BwEOQYYw5dAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/jenkins_home/workspace/wangzelong@2
+[8mha:////4KaK6nJOiW+UmRFGR3ab/vI1c4DU5mf3YDobtJrYzxc8AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4KXLrRGI4IRWMQzhkS3DUWS8j9Qb8BsmkTMY7DRD253MAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4HuQ8t52Ib0kC3NaVXPk0huls0Iartq7+iG6R+fk6uUkAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Preparation)
+[8mha:////4Lf/llqIf8GGeCnAacUO1osusrZJpvq9pp7kD1TRbk4GAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/wangzelong@2/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/unforgivab1e/devOps.git # timeout=10
+Fetching upstream changes from https://github.com/unforgivab1e/devOps.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/unforgivab1e/devOps.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 3e027af3b072ce9a855a6600d8c1a4dbf9d70cdb (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 3e027af3b072ce9a855a6600d8c1a4dbf9d70cdb # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git branch -D master # timeout=10
+ > git checkout -b master 3e027af3b072ce9a855a6600d8c1a4dbf9d70cdb # timeout=10
+Commit message: "delete"
+ > git rev-list --no-walk 3e027af3b072ce9a855a6600d8c1a4dbf9d70cdb # timeout=10
+[8mha:////4AaUGqnU4QXihHO4xh5urNwLzwdAkwC1EWPL0zAaBn4SAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4BjDA3uB9iSRfko1jsL6MNfL06GUiz89rO8mB3Y4O8t8AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4Js4BGl0fkoBYZQseYucDgBE9phX2I1k8hTpLyLJyQEpAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIBiQ5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYO0G2F+S7bfcBVVhdU70AAAA=[0m[Pipeline] stage
+Using the ‘stage’ step without a block argument is deprecated
+Entering stage build
+Proceeding
+[8mha:////4G5JzdFBEM4vmoCXacXoFqR/fq6aNMJ2Vzdg2RQt9beDAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6KExM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9YJsL8jLsv8AFGlGSr0AAAA=[0m[Pipeline] sh
++ ./gradlew build bootRun
+Starting a Gradle Daemon (subsequent builds will be faster)
+> Task :compileJava UP-TO-DATE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+> Task :bootJarMainClassName UP-TO-DATE
+> Task :bootJar UP-TO-DATE
+> Task :jar UP-TO-DATE
+> Task :assemble UP-TO-DATE
+> Task :compileTestJava UP-TO-DATE
+> Task :processTestResources NO-SOURCE
+> Task :testClasses UP-TO-DATE
+> Task :test UP-TO-DATE
+> Task :check UP-TO-DATE
+> Task :build UP-TO-DATE
+> Task :bootRunMainClassName UP-TO-DATE
+
+> Task :bootRun
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.7.1)
+
+2022-07-01 09:10:13.772  INFO 4491 --- [           main] com.example.devops.DevOpsApplication     : Starting DevOpsApplication using Java 11.0.15 on 2a0d6b10be10 with PID 4491 (/var/jenkins_home/workspace/wangzelong@2/build/classes/java/main started by jenkins in /var/jenkins_home/workspace/wangzelong@2)
+2022-07-01 09:10:13.792  INFO 4491 --- [           main] com.example.devops.DevOpsApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-07-01 09:10:18.358  INFO 4491 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-07-01 09:10:18.398  INFO 4491 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-01 09:10:18.398  INFO 4491 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-01 09:10:18.716  INFO 4491 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-01 09:10:18.716  INFO 4491 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4589 ms
+2022-07-01 09:10:20.388  INFO 4491 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-07-01 09:10:20.408  INFO 4491 --- [           main] com.example.devops.DevOpsApplication     : Started DevOpsApplication in 8.978 seconds (JVM running for 10.092)
+Sending interrupt signal to process
+Sending interrupt signal to process
+Aborted by [8mha:////4FjCRpLtJZKYxfKgpZgz+VbF0gMFzzmm0a8zSmHY3qKFAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9cqAZAG34iXK/AAAA[0mwang
+
+> Task :bootRun FAILED
+The message received from the daemon indicates that the daemon has disappeared.
+Build request sent: Build{id=3394f404-165d-45ab-a2fc-46b5897af85c, currentDir=/var/jenkins_home/workspace/wangzelong@2}
+Attempting to read last messages from the daemon log...
+Daemon pid: 4355
+  log file: /var/jenkins_home/.gradle/daemon/7.4.1/daemon-4355.out.log
+----- Last  20 lines from daemon log file - daemon-4355.out.log -----
+2022-07-01T09:10:02.085+0000 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] Executing build with daemon context: DefaultDaemonContext[uid=ac0329c4-f9b4-47b8-b604-627e9553fc41,javaHome=/opt/java/openjdk,daemonRegistryDir=/var/jenkins_home/.gradle/daemon,pid=4355,idleTimeout=10800000,priority=NORMAL,daemonOpts=--add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens,java.base/java.nio.charset=ALL-UNNAMED,--add-opens,java.base/java.net=ALL-UNNAMED,--add-opens,java.base/java.util.concurrent.atomic=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country,-Duser.language=en,-Duser.variant]
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.7.1)
+
+2022-07-01 09:10:13.772  INFO 4491 --- [           main] com.example.devops.DevOpsApplication     : Starting DevOpsApplication using Java 11.0.15 on 2a0d6b10be10 with PID 4491 (/var/jenkins_home/workspace/wangzelong@2/build/classes/java/main started by jenkins in /var/jenkins_home/workspace/wangzelong@2)
+2022-07-01 09:10:13.792  INFO 4491 --- [           main] com.example.devops.DevOpsApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-07-01 09:10:18.358  INFO 4491 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-07-01 09:10:18.398  INFO 4491 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-01 09:10:18.398  INFO 4491 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-01 09:10:18.716  INFO 4491 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-01 09:10:18.716  INFO 4491 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4589 ms
+2022-07-01 09:10:20.388  INFO 4491 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-07-01 09:10:20.408  INFO 4491 --- [           main] com.example.devops.DevOpsApplication     : Started DevOpsApplication in 8.978 seconds (JVM running for 10.092)
+Daemon vm is shutting down... The daemon has exited normally or was terminated in response to a user interrupt.
+----- End of the daemon log -----
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Gradle build daemon disappeared unexpectedly (it may have been killed or may have crashed)
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+script returned exit code 1
+[8mha:////4KyUFDhRXmHjKdxxUkDngq7ke/h+Z3TkOMUONvy5jvscAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRiA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Qb3eCbP8B5XiFqL0AAAA=[0m[Pipeline] }
+[8mha:////4G6Rd/Ym4L55/wHeuigsbKnQvmfy4/BqGOsfXx1C2D8BAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6LEMBon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk+1KQlR/2xIELvQAAAA==[0m[Pipeline] // node
+[8mha:////4LCkuc5/+HSWPP5D1wihMhk8kARZ7Es2vA3iXQcWqjiHAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRiA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Qb/eCbPcBcCimzr0AAAA=[0m[Pipeline] End of Pipeline
+Finished: ABORTED

@@ -1,0 +1,119 @@
+Started by user [8mha:////4FjCRpLtJZKYxfKgpZgz+VbF0gMFzzmm0a8zSmHY3qKFAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9cqAZAG34iXK/AAAA[0mwang
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/wang
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/wang/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/unforgivab1e/devOps.git # timeout=10
+Fetching upstream changes from https://github.com/unforgivab1e/devOps.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/unforgivab1e/devOps.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 3e027af3b072ce9a855a6600d8c1a4dbf9d70cdb (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 3e027af3b072ce9a855a6600d8c1a4dbf9d70cdb # timeout=10
+Commit message: "delete"
+First time build. Skipping changelog.
+[Gradle] - Launching build.
+[wang] $ /var/jenkins_home/workspace/wang/gradlew build bootRun
+Starting a Gradle Daemon (subsequent builds will be faster)
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :compileJava UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :processResources UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :classes UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :bootJarMainClassName UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :bootJar UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :jar UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :assemble UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :compileTestJava UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :processTestResources NO-SOURCE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :testClasses UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :test UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :check UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :build UP-TO-DATE
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :bootRunMainClassName UP-TO-DATE
+
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :bootRun
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.7.1)
+
+2022-07-01 01:26:56.515  INFO 309 --- [           main] com.example.devops.DevOpsApplication     : Starting DevOpsApplication using Java 11.0.15 on 2a0d6b10be10 with PID 309 (/var/jenkins_home/workspace/wang/build/classes/java/main started by jenkins in /var/jenkins_home/workspace/wang)
+2022-07-01 01:26:56.531  INFO 309 --- [           main] com.example.devops.DevOpsApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-07-01 01:27:00.746  INFO 309 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-07-01 01:27:00.783  INFO 309 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-01 01:27:00.783  INFO 309 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-01 01:27:01.092  INFO 309 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-01 01:27:01.092  INFO 309 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4306 ms
+2022-07-01 01:27:02.325  INFO 309 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-07-01 01:27:02.344  INFO 309 --- [           main] com.example.devops.DevOpsApplication     : Started DevOpsApplication in 7.919 seconds (JVM running for 9.011)
+2022-07-01 01:27:06.707  INFO 309 --- [nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 01:27:06.708  INFO 309 --- [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-01 01:27:06.708  INFO 309 --- [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+
+[8mha:////4CfglWwA2Fb7b70N3A/F7wHbMQOqUV1d/0v3QDKDSk9lAAAAYB+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUyFJBZn++WXpCqzh62PfDo/h4mBoaKIQQqqJTk/rzgfqNYZQoMUMkAAI0hhAQASWqbMYgAAAA==[0m> Task :bootRun FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':bootRun'.
+> Process 'command '/opt/java/openjdk/bin/java'' finished with non-zero exit value 143
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+[8mha:////4C4k7KoFpLNm5TXA7hCtXfE0hwkVC9b+y8qXeLIQzKYdAAAAYx+LCAAAAAAAAP9b85aBtbiIQT2jNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUz5l5Yk5+em+uWXpNbNmqZ4mHPZIiYGhooiBimoruT8vOJ8oHJnCA1SyAABjCCFBQBI197DZQAAAA==[0mBUILD FAILED in 6h 13m 10s
+9 actionable tasks: 1 executed, 8 up-to-date
+The message received from the daemon indicates that the daemon has disappeared.
+Build request sent: Build{id=af835a0a-ca44-47f5-b735-225efe742cde, currentDir=/var/jenkins_home/workspace/wang}
+Attempting to read last messages from the daemon log...
+Daemon pid: 187
+  log file: /var/jenkins_home/.gradle/daemon/7.4.1/daemon-187.out.log
+----- Last  20 lines from daemon log file - daemon-187.out.log -----
+2022-07-01 01:27:06.707  INFO 309 --- [nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 01:27:06.708  INFO 309 --- [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-01 01:27:06.708  INFO 309 --- [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':bootRun'.
+> Process 'command '/opt/java/openjdk/bin/java'' finished with non-zero exit value 143
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+[8mha:////4C4k7KoFpLNm5TXA7hCtXfE0hwkVC9b+y8qXeLIQzKYdAAAAYx+LCAAAAAAAAP9b85aBtbiIQT2jNKU4P0+vIKc0PTOvWC+9KDElJ1XPHUz5l5Yk5+em+uWXpNbNmqZ4mHPZIiYGhooiBimoruT8vOJ8oHJnCA1SyAABjCCFBQBI197DZQAAAA==[0mBUILD FAILED in 6h 13m 10s
+9 actionable tasks: 1 executed, 8 up-to-date
+Daemon vm is shutting down... The daemon has exited normally or was terminated in response to a user interrupt.
+----- End of the daemon log -----
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Gradle build daemon disappeared unexpectedly (it may have been killed or may have crashed)
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+Build was aborted
+Aborted by [8mha:////4FjCRpLtJZKYxfKgpZgz+VbF0gMFzzmm0a8zSmHY3qKFAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9cqAZAG34iXK/AAAA[0mwang
+Finished: ABORTED

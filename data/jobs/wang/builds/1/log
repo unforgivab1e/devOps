@@ -1,0 +1,15 @@
+Started by user [8mha:////4FjCRpLtJZKYxfKgpZgz+VbF0gMFzzmm0a8zSmHY3qKFAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9cqAZAG34iXK/AAAA[0mwang
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/wang
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/unforgivab1e/devOps.git
+ > git init /var/jenkins_home/workspace/wang # timeout=10
+Fetching upstream changes from https://github.com/unforgivab1e/devOps.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/unforgivab1e/devOps.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Build was aborted
+Aborted by [8mha:////4FjCRpLtJZKYxfKgpZgz+VbF0gMFzzmm0a8zSmHY3qKFAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9cqAZAG34iXK/AAAA[0mwang
+Finished: ABORTED
